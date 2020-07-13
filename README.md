@@ -1,5 +1,7 @@
 # Cosmo
 
+Wyszukiwarka zdjęć kosmicznych przy użyciu NASA API.
+
 ## Project setup
 ```
 npm install
