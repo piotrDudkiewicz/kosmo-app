@@ -1,4 +1,4 @@
-# spacer
+# Cosmo
 
 ## Project setup
 ```
